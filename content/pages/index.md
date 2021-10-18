@@ -4,7 +4,13 @@ sections:
   - type: hero_section
     title: Inspire. Create. Build.
     subtitle: dddddd
-    content: '**April 14 - 16, 2021**'
+    content: |+
+      April 14 - 16, 2021
+
+      April 14 - 16, 2021
+
+      April 14 - 16, 2021
+
     actions:
       - label: fdfdfdfdfdfdfdfdfdfddf
         url: /about
