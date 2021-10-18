@@ -6,7 +6,7 @@ sections:
     subtitle: dddddd
     content: '**April 14 - 16, 2021**'
     actions:
-      - label: Get Your Ticket Today!
+      - label: fdfdfdfdfdfdfdfdfdfddf
         url: /about
         style: primary
     align: center
